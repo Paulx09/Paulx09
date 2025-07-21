@@ -15,8 +15,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <a align="left">
-<a href="https://instagram.com/_paulx.xr.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_paulx.xr.18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paulo-a-ba1a13269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-a-ba1a13269" height="30" width="40" /></a>
+<a href="https://instagram.com/_paulx.xr.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_paulx.xr.18" height="30" width="40" /></a>
 <a href="https://twitter.com/pauloa24025120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pauloa24025120" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user21514112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user21514112" height="30" width="40" /></a>
 <a href="https://codepen.io/pauloarmey-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pauloarmey-18" height="30" width="40" /></a>
